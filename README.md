@@ -25,3 +25,7 @@ Menghitung total belanja dengan ketentuan diskon sebagai berikut:
 
 ## **Flowchart**
 ![this is an image](https://github.com/bugbil/Super-Cashier/blob/14476f495b05633d1ac309b94c98ca71090407ac/Screenshot%202023-02-12%20at%2020.35.21.png)
+
+
+## **Testing**
+![this is an image]()
