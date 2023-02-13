@@ -4,24 +4,28 @@ A Super Cashier code using Phyton - for Pacmann Phyton Class Final Assignment
 
 ## **Background Project**
 
-Andi adalah seorang pemilik supermarket besar di salah satu kota di Indonesia. Andi memiliki rencana untuk melakukan perbaikan proses bisnis, yaitu Andi akan membuat sistem kasir yang self-service di supermarket miliknya. Sehingga customer bisa langsung memasukkan item yang dibeli, jumlah item yang dibeli, dan harga item yang dibeli dan fitur yang lain. Sehingga customer yang tidak berada di kota tersebut bisa membeli barang dari supermarket tersebut. Setelah Andi melakukan riset, ternyata Andi memiliki masalah, yaitu Andi membutuhkan Programmer untuk membuatkan fitur - fitur agar bisa sistem kasir self-service di supermarket itu bisa berjalan dengan lancar.
+Andi is a businessman who owns a supermarket in of a city in Indonesia. He has some plans to improve his business, and that is to make a self-service cashier system in his supermarket. The purpose is to make customers be able to put the items, quantities, price, and have other features in it. Thus, making it possible for customers who live all over Indonesia to shop without going to the supermarket directly. 
+After conducting a research, he found a problem: he needs a programmer to build the system and create such features for the self-service cashier to run smoothly.
+
 
 ## **Feature Requirements**
-
-Membuat ID transaksi. Dilakukan dengan membuat object dari kelas transaksi yang sudah didefinisikan.
-Memasukkan data transaksi yang berisi nama, jumlah, dan harga peritem
-Mengupdate data transaksi dengan:
-Update nama, jika terjadi kesalahan saat input nama item.
-Update jumlah jika terjadi kesalahan saat input jumlah item.
-Update harga jika terdai kesalahan saat input harga per item.
-Membatalkan data transaksi dengan pilihan:
-Menghapus salah satu item
-Menghapus semuanya data transaksi
-Melakukan pengecekan terhadap data transaksi.
-Menghitung total belanja dengan ketentuan diskon sebagai berikut:
-- Jika totalbelanja di atas Rp200.000 maka akan mendapatkan diskon 5%.
-- Jika totalbelanja di atas Rp300.000 maka akan mendapatkan diskon 8%.
-- Jika totalbelanja di atas Rp500.000 maka akan mendapatkan diskon 10%.
+Here are some features and requirements for self-service cashier:
+1. Making transaction IDs.
+2. Transaction data input, which include:
+- Item Name
+- Item Quantity
+- Item Price
+3. Transaction data update, which include:
+- Item Name Update
+- Item Quantity Update
+- Item Price Update
+4. Deleting items in transaction.
+5. Resetting transactions. 
+6. Checking if the transaction if valid.
+7. Calculating total order with condition of:
+- Discount 5% for every purchase of Rp 200.000
+- Discount 8% for every purchase of Rp 300.000
+- Discount 10% for every purchase of Rp 500.000
 
 ## **Flowchart**
 ![this is an image](https://github.com/bugbil/Super-Cashier/blob/14476f495b05633d1ac309b94c98ca71090407ac/Screenshot%202023-02-12%20at%2020.35.21.png)
