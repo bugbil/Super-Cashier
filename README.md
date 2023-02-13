@@ -28,4 +28,4 @@ Menghitung total belanja dengan ketentuan diskon sebagai berikut:
 
 
 ## **Testing**
-![this is an image]()
+![this is an image](https://github.com/bugbil/Super-Cashier/blob/main/Testing.png)
