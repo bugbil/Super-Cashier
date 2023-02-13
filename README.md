@@ -33,3 +33,10 @@ Here are some features and requirements for self-service cashier:
 
 ## **Testing**
 ![this is an image](https://github.com/bugbil/Super-Cashier/blob/main/Testing.png)
+
+## **Conclusion**
+The self-service cashier has been successfully built and can be used according to Andi's needs.
+
+## **Suggestions for Improvements**
+More features such as self-payment method can be added later.
+
