@@ -24,4 +24,4 @@ Menghitung total belanja dengan ketentuan diskon sebagai berikut:
 - Jika totalbelanja di atas Rp500.000 maka akan mendapatkan diskon 10%.
 
 ## **Flowchart**
-![this is an image]()
+![this is an image](https://drive.google.com/file/d/1PPkYlJ0UzpkHbTkQh12GoEUrj2mPJKVD/view?usp=sharing)
